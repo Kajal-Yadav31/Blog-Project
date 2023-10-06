@@ -15,7 +15,7 @@ class StartingPageView(ListView):
 
     def get_queryset(self):
         queryset = super().get_queryset()
-        data = queryset[:3]
+        data = queryset[:3]   # getting the latest last three post from lists of posts
         return data
     
 class AllPostsView(ListView):
