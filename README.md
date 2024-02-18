@@ -25,12 +25,12 @@ https://github.com/Kajal-Yadav31/Blog-Project/assets/129850619/b25aaa7d-dc1b-437
 ## Getting Started
 
 ### Prerequisites
-- Python (version x.x.x)
+- Python (version 3.11.2)
 - Django (version x.x.x)
 
 ### Installation
 1. Clone the repository: `git clone https://github.com/Kajal-Yadav31/Blog-Project.git`
-2. Navigate to the project directory: `cd blog-application`
+2. Navigate to the project directory: `cd Blog-Project`
 3. Run the development server: `python manage.py runserver`
 
 ### Usage
@@ -38,8 +38,6 @@ https://github.com/Kajal-Yadav31/Blog-Project/assets/129850619/b25aaa7d-dc1b-437
 - Admin users can log in to the admin panel to upload blog posts.
 - Regular users can view blog posts, comment on them, and bookmark their favorite posts.
 
-## Demo
-Include screenshots or GIFs demonstrating the usage of your application (optional).
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
